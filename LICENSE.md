@@ -1,4 +1,5 @@
 Useful PostgreSQL utilities.
+1
 
 Copyright (c) 2011-2014, PostgreSQL-Consulting.com
 
